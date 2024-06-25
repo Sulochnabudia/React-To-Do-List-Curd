@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 
 
-https://github.com/Sulochnabudia/React-To-Do-List-Curd/assets/117648334/f0d66a1e-3b25-4502-a571-20f0b171daba
+
 
 
 
